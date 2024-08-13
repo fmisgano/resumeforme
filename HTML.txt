@@ -60,7 +60,7 @@
     </section>
 
     <footer>
-        <p>Contact: your.email@example.com</p>
+        <p>Contact: fmisgano@gmail.com</p>
     </footer>
 
     <script src="script.js"></script>
